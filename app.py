@@ -1,7 +1,6 @@
 import streamlit as st
 from PIL import Image
 import classify
-import numpy as np
 
 st.set_option('deprecation.showfileUploaderEncoding', False)
 
