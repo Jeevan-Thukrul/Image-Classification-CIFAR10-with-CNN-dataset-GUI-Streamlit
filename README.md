@@ -7,7 +7,7 @@
 ## Training and Testing Accurcy
 Train accuracy: 0.8148
 Test accuracy: 0.7659
-![alt text](Output/2173244_CIFAR10_CNN.gif)
+![alt text](Accuracy.png)
 
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
