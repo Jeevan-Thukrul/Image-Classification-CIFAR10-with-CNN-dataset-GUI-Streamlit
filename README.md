@@ -3,6 +3,12 @@
 ## App Output
 ![alt text](Output/2173244_CIFAR10_CNN.gif)
 
+
+## Training and Testing Accurcy
+Train accuracy: 0.8148
+Test accuracy: 0.7659
+![alt text](Output/2173244_CIFAR10_CNN.gif)
+
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
 i.e., a model that classifies the input images based on CIFAR 10 using Convolutional Neural Networks.
