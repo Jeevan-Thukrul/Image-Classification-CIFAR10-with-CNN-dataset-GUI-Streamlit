@@ -7,7 +7,7 @@
 ## Training and Testing Accurcy
 Train accuracy: 0.8148
 Test accuracy: 0.7659
-![alt text](Accuracy.png)
+![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/blob/master/Output/Accuracy.png)
 
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
