@@ -16,7 +16,7 @@
 
 ## Project overview
 - The aim of this project is to develop a model for Image classification and integrate it with the GUI, 
-i.e., a model that classifies the input images based on CIFAR 10 using Convolutional Neural Networks.
+i.e., a model that classifies the input images based on CIFAR 10 using Convolutional Neural Networks (CNN).
 
 ## Folders and Files Description
 
