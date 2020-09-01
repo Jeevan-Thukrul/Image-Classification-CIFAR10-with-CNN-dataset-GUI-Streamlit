@@ -5,8 +5,8 @@
 
 
 ## Training and Testing Accurcy
-Train accuracy: 0.8148
-Test accuracy: 0.7659
+- Train accuracy: 0.8148
+- Test accuracy: 0.7659 </br>
 ![alt text](https://github.com/Jeevan-Thukrul/Image-Classification-CIFAR10-with-CNN-dataset-GUI-Streamlit/blob/master/Output/Accuracy.png)
 
 ## Project overview
