@@ -17,7 +17,7 @@ i.e., a model that classifies the input images based on CIFAR 10 using Convoluti
 ### Output
 - Contains the App's final output 
 
-### MNIST_2.ipynb
+### CNN_CIFAR10.ipynb
 - Google Colab Notebook
 - It is the python notebook used to build and save the model.
 
